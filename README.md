@@ -49,6 +49,14 @@ Bar
 {{< /spoiler >}}
 ```
 
+##### Spoiler with text in header
+```
+{{% spoiler text="Foo" %}}
+`bar`
+{{% /spoiler %}}
+```
+
+
 #### Known issues
 
 * Nesting issue
